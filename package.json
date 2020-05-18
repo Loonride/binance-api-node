@@ -1,5 +1,5 @@
 {
-  "name": "binance-api-node",
+  "name": "@loonride/binance-api-node",
   "version": "0.9.24",
   "description": "A node API wrapper for Binance",
   "main": "dist",
